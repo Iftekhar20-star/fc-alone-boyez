@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iftekhar20-star.github.io/fc-alone-boyez/sitemap.xml
